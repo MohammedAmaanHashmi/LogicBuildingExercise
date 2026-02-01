@@ -11,6 +11,7 @@ public class CheckForEvenOrOdd {
             System.out.println("Number is Even");
         } else {
             System.out.println("Number is Odd");
+            System.out.println("Test");
         }
     }
 }
